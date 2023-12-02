@@ -1,0 +1,6 @@
+nest_asyncio==1.5.8
+pyserial_asyncio==0.6
+PySide6==6.6.0
+PySide6==6.6.0
+PySide6_Addons==6.6.0
+PySide6_Essentials==6.6.0
